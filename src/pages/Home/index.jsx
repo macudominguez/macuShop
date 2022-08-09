@@ -1,6 +1,6 @@
 import { Spinner, Flex } from '@chakra-ui/react'
 
-import Card from '../../Components/Card'
+import Card from '../../components/Card'
 import CaptionCarousel from '../../components/Carousel'
 import { useGet } from '../../Hooks/useGet'
 
