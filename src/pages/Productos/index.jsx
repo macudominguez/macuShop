@@ -1,6 +1,6 @@
 import { Box, Flex, Spinner } from '@chakra-ui/react'
 
-import Card from '../../Components/Card'
+import Card from '../../components/Card'
 import { useGet } from '../../Hooks/useGet'
 import Filtro from './Filtro'
 import Paginado from './Paginado'
