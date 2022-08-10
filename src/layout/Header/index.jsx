@@ -17,7 +17,7 @@ import { Link } from 'react-router-dom'
 
 import Logo from '../../assets/macushop4.jpg'
 import ModalForm from '../../components/Auth/Modal'
-import Profile from '../../components/Auth/profile'
+import Profile from '../../components/Auth/Profile'
 import { useUser } from '../../Hooks/useUser'
 import Modal from './Drawer'
 
