@@ -15,7 +15,7 @@ import { BsCart } from 'react-icons/bs'
 import { Link } from 'react-router-dom'
 
 import { useCart } from '../../../Hooks/useCart'
-import { Cart } from '../../../Pages/Cart'
+import Cart from '../../../pages/Cart'
 
 const Modal = () => {
   const { isOpen, onOpen, onClose } = useDisclosure()

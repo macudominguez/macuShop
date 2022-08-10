@@ -95,4 +95,4 @@ const Cart = ({ onClose }) => {
   )
 }
 
-export { Cart }
+export default Cart
